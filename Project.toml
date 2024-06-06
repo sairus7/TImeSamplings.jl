@@ -1,0 +1,13 @@
+name = "TimeSamplings"
+uuid = "3a15925d-52f9-4c22-a6b1-e3a147294527"
+authors = ["Viktor G. Gumennyy <20798349+sairus7@users.noreply.github.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
